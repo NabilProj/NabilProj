@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nabil 👋
 
-<!--
-**NabilProj/NabilProj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering graduate from INSA Lyon, looking for a permanent position
+in the aerospace industry in CFD Simulation, Flight Testing or Mechanical Design.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a mechanical engineering graduate with a strong focus on aeronautics.
+I enjoy working at the intersection of fluid dynamics, simulation and structural
+design, from setting up CFD models to interpreting test data.
+
+I am actively seeking a full-time position in the aerospace industry where I can
+contribute to simulation, testing or design projects.
+
+## Technical skills
+
+**Simulation & CFD** · ANSYS Fluent · OpenFOAM (basics)
+**CAD & Design** · SolidWorks · CATIA
+**Programming** · Python · MATLAB
+**Other** · FEA · Aerodynamics · Technical reporting
